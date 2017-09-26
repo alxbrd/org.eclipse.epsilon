@@ -85,3 +85,6 @@ target
 
 # Backup files from Emacs
 *~
+
+#Large files
+performance/
